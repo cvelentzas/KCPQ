@@ -3,7 +3,10 @@ GPU-based Algorithms for Processing the k Closest-Pairs Query on Spatial Data
 
 In this repository we present all the executed experiments.
 
-Impact of Dataset Size
+1. First Group: Impact of Dataset Size, using synthetic and real data
+
+Synthetic Data Experiments:
+
 1.1. Scaling D1 with bit distribution
 <img width="1177" height="743" alt="image" src="https://github.com/user-attachments/assets/a2c3b307-745d-44d4-82ce-1d2751e27098" />
 
@@ -22,4 +25,14 @@ Impact of Dataset Size
 1.6. Scaling D2 with uniform distribution
 <img width="1180" height="752" alt="image" src="https://github.com/user-attachments/assets/2bbfe48a-97a4-49c5-bf93-eb2f342706bd" />
 
+Real Data Experiments
+
+1.7. Parks 11.5 M, Water 5.8 M
+<img width="1177" height="747" alt="image" src="https://github.com/user-attachments/assets/42ad9fa0-a5a2-46de-bcee-0e0d0576ca2e" />
+
+1.8. Buildings 114.7 M, Water 5.8 M
+<img width="1182" height="746" alt="image" src="https://github.com/user-attachments/assets/7a97ce48-4d02-44f2-a224-cc6d591ac8d6" />
+
+1.9. Buildings 114.7 M, Parks 11.5M
+<img width="1182" height="725" alt="image" src="https://github.com/user-attachments/assets/f9e9c48e-609a-41fa-a184-1683b42b3935" />
 
